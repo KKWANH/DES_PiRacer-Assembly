@@ -167,12 +167,12 @@ Install Camera dependemcies if needed.
 
 Git clone the piracer_py repository (insert link!) & create project folder on Pi's directory: 
 ```bash
-	cd ~
+    cd ~
     mkdir piracer_test/
     cd piracer_test/
     python3 -m venv venv
-    source venv/bin/aktivate
-	pip install piracer-py
+    source venv/bin/activate
+    pip install piracer-py
 ```	
 	
 ## Run Examples & Test PiRacer
